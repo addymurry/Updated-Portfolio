@@ -1,0 +1,45 @@
+#html{background-image: url("images/backgroundImg.jpg")}
+#html1{background-image: url("images/backgroundImg.jpg")}
+#html2{background-image: url("images/background2.jpg")}
+#jumbo{
+    background: linear-gradient(to bottom, #ffffffe5 0%, #2ca4db 100%);
+    font-style:normal;
+}
+#jumbos{
+    background-color: #2ca4db;
+}
+
+.card-body{
+    background-color: #2d7a9e;
+    font-size: 20px;
+    border:1px;
+}
+.card{width: 50%;
+size: 50%;
+left:20%;
+}
+.cards{
+    background-color: #2ca4db;
+}
+
+#html{background-image: url("images/backgroundImg.jpg")}
+#proPic{
+    margin:10px;
+    float:left;
+    max-width: 300px;
+}
+#gif{
+float:left;
+background-color: #2ca4db;
+margin:15px;
+}
+#train{
+    float:left;
+    background-color: #2ca4db;
+    margin:15px;
+}
+#drone{
+    float:left;
+    background-color: #2ca4db;
+    margin:15px;
+}
